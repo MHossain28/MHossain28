@@ -1,16 +1,20 @@
-### Hi there 👋
+## <p align="center">Hey there 👋, This is Mahmud Hossain.</p>
+#### I am Frontend focused Full Stack Web Developer  
 
 
-**MHossain28/MHossain28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Enthuisast as a learner and coder. patient about problem solving.
 
-Here are some ideas to get you started:
+#### Here is my [Portfolio]()    Here is my [Resume]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-jahidHasan&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Md-jahidHasan&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
+
+<h2 align="center">Visitors Count</h2>
+<p align="center">
+  <img align="center" alt="azimahmed.com" width="40%" src="https://profile-counter.glitch.me/Md-jahidHasan/count.svg" />
+</p>
 
