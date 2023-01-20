@@ -15,6 +15,6 @@
 
 <h2 align="center">Visitors Count</h2>
 <p align="center">
-  <img align="center" alt="azimahmed.com" width="40%" src="https://profile-counter.glitch.me/MHossain-28/count.svg" />
+  <img align="center" alt="azimahmed.com" width="40%" src="https://profile-counter.glitch.me/MHossain28/count.svg" />
 </p>
 
